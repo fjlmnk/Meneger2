@@ -1,0 +1,14 @@
+D:\Colleg notes\project\FileManager\FileManager\bin\ARM64\Debug\FileManager.exe.config
+D:\Colleg notes\project\FileManager\FileManager\bin\ARM64\Debug\FileManager.exe
+D:\Colleg notes\project\FileManager\FileManager\bin\ARM64\Debug\FileManager.pdb
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager.csproj.AssemblyReference.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\MainView.baml
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\MainView.g.cs
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\App.g.cs
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager_MarkupCompile.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager.g.resources
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager.Properties.Resources.resources
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager.csproj.GenerateResource.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager.csproj.CoreCompileInputs.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager.exe
+D:\Colleg notes\project\FileManager\FileManager\obj\ARM64\Debug\FileManager.pdb

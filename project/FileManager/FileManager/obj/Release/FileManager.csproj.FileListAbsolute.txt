@@ -1,0 +1,14 @@
+D:\Colleg notes\project\FileManager\FileManager\bin\Release\FileManager.exe.config
+D:\Colleg notes\project\FileManager\FileManager\bin\Release\FileManager.exe
+D:\Colleg notes\project\FileManager\FileManager\bin\Release\FileManager.pdb
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager.csproj.AssemblyReference.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\MainView.baml
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\MainView.g.cs
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\App.g.cs
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager_MarkupCompile.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager.g.resources
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager.Properties.Resources.resources
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager.csproj.GenerateResource.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager.csproj.CoreCompileInputs.cache
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager.exe
+D:\Colleg notes\project\FileManager\FileManager\obj\Release\FileManager.pdb

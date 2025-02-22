@@ -1,0 +1,40 @@
+﻿<Window x:Class="FileManager.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Manager" Height="450" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="641*"/>
+            <ColumnDefinition Width="159*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.ColumnSpan="2">
+            <!-- Основна панель для файлів -->
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+                <!-- Тут можна вкласти ліву та праву панель для файлів -->
+                <!-- Ліва панель для файлів -->
+                <ListView ItemsSource="{Binding LeftPanelFiles}" DockPanel.Dock="Left" Width="500">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="File Name" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                            <GridViewColumn Header="Size" DisplayMemberBinding="{Binding Size}" Width="100"/>
+                            <GridViewColumn Header="Modified" DisplayMemberBinding="{Binding Modified}" Width="100"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <!-- Права панель для файлів -->
+                <ListView ItemsSource="{Binding RightPanelFiles}" DockPanel.Dock="Left" Width="500">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="File Name" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                            <GridViewColumn Header="Size" DisplayMemberBinding="{Binding Size}" Width="100"/>
+                            <GridViewColumn Header="Modified" DisplayMemberBinding="{Binding Modified}" Width="100"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+
+            <!-- Панель кнопок внизу з рожевим фоном -->
+        </DockPanel>
+    </Grid>
+</Window>
